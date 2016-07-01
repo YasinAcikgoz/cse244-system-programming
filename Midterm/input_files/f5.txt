@@ -1,0 +1,1 @@
+cos(x)*cosx(x)+sinx(x)*sinx(x)

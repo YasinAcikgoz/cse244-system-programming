@@ -1,0 +1,6 @@
+Client-server model kullanilarak integral hesabi yapan program.
+Programin calisabilmesi icin libmatheval kutuphanesinin kurulu olması ve input dosyalarinin kaynak kodla ayni dizinde olmasi gereklidir. 
+terminal -> "sudo apt-get install libmatheval-dev"
+client server'dan gelen sonuclari ekranda gorur, ctrl-c yapip programi kapattiginda log dosyasi olusur.
+
+pdf: https://drive.google.com/file/d/0B430buW7eGuuc0dpelVPMHRoLUk/view?usp=sharing
