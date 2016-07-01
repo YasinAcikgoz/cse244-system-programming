@@ -296,7 +296,6 @@ void* countWords(void *thread){
     }
     i=0;
     fclose(fTextFilePtr);
-
     /*kelimeleri say ve log dosyasini olustur*/
 	while(i<iNumberOfChar){
 		if(sText[i]!='\n')
