@@ -1,3 +1,3 @@
-Processler arasi iletisim fifo kullanarak yapilmistir.
+Processler arasi iletisim icin message queue ve shared memory kullanilmistir.
 Paralel processing icin thread kullanilmistir.
 Thread senkronizasyonu icin semaphore kullanilmistir.
