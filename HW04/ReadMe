@@ -1,0 +1,2 @@
+Text dosyalari arasi iletisim pipe, klasörler arasi iletisim fifo kullanarak yapilmistir.
+Paralel processing icin thread kullanilmistir.
