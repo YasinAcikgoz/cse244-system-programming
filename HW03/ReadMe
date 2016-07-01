@@ -1,0 +1,6 @@
+Sistem Programlama Ödev 3 Yasin Acikgoz
+
+Signal Handler'i test etmek icin 27. satirdaki constant macro'nun isminin
+"SLEEP_ON" yapilmasi gereklidir.
+
+Process'ler arasi iletisim pipe kullanarak yapilmistir.
