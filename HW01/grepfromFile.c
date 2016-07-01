@@ -6,7 +6,7 @@
 *    	     CSE 244 HW01 			*
 *									*
 *************************************/
-
+ 
 //includes
 #include <stdio.h>
 #include <string.h>
