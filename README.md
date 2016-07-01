@@ -1,2 +1,4 @@
 # cse244-computer-programming
-Gebze Teknik Üniversitesi Bilgisayar Mühendisliği bölümü Sistem Programlama dersi 2016 yılı ödevleri.
+These files are my System Programming (CSE 244) 2016 Spring term assignments.
+
+Note: These homeworks are maybe include a little bugs.
