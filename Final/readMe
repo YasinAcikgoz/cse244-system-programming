@@ -2,3 +2,5 @@ Ayni local agdaki bilgisayarlar icin FTP programi
 Dosya gonderimi clientler arasi veya server'a olabilir. 
 Client(lar) ve server ctrl-c yapip programi sonlandirildiginda o anki islemin tamamlanması beklenir.
 Multiple processing icin thread, senkronizasyon icin mutex kullanilmistir.
+
+pdf: https://drive.google.com/file/d/0B430buW7eGuuMkVGbHcwemVnazA/view?usp=sharing
